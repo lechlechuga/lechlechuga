@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lechlechuga
 - 👀 I’m interested in vegan food and technology
-- 🌱 I’m currently learning to be a developer 
+- 🌱 I’m currently learning as a WordPress Apprentice with BitWise  
 - 💞️ I’m looking to collaborate on using tech to help better our communities
 - 📫 Email me please!
 <!---
